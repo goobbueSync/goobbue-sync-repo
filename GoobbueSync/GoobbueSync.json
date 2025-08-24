@@ -16,7 +16,7 @@
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/GoobbueSync/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/goobbueSync/goobbue-sync-repo/refs/heads/master/GoobbueSync/image/goobbicon.png",
         "Punchline": "Let others see you as you see yourself!",
         "IsHide": false,
         "IsTestingExclusive": false,
