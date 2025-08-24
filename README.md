@@ -39,7 +39,7 @@ To update the plugin:
 
 ## 📞 Support
 
-- **GitHub**: [n0way02/goobbue-sync](https://github.com/n0way02/goobbue-sync)
+- **GitHub**: [n0way02/goobbue-sync](https://github.com/goobbueSync/gobbue-sync)
 - **Discord**: Join the Goobbue Sync server
 
 ---
