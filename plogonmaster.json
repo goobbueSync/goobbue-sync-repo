@@ -20,8 +20,8 @@
         "Punchline": "Let others see you as you see yourself!",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.11/latest.zip",
+        "DownloadLinkTesting": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.11/latest.zip"
     }
 ]
