@@ -9,7 +9,7 @@ This is a custom repository for the **Goobbue Sync** FFXIV plugin.
 - Click "Settings" (⚙️)
 - In "Custom Plugin Repositories", add:
   ```
-  https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/plogonmaster.json
+  https://github.com/goobbueSync/goobbue-sync-repo/blob/master/plogonmaster.json
   ```
 
 ### 2. **Install the Plugin:**
