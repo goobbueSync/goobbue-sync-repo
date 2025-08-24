@@ -5,7 +5,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "A plugin that allows other players to see your character customizations, mods, and appearance exactly as you see them. Real-time synchronization of character data across the FFXIV community.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/n0way02/goobbue-sync",
+    "RepoUrl": "https://github.com/goobbueSync/gobbue-sync",
     "Tags": [
         "social",
         "utility",
@@ -19,7 +19,7 @@
     "Punchline": "Let others see you as you see yourself!",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/GoobbueSync/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/GoobbueSync/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/GoobbueSync/latest.zip"
+    "DownloadLinkInstall": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/goobbueSync/gobbue-sync/releases/download/v1.0.0/latest.zip"
 }
