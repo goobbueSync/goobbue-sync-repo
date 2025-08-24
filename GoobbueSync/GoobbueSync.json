@@ -3,7 +3,7 @@
         "Author": "n0way02",
         "Name": "Goobbue Sync",
         "InternalName": "GoobbueSync",
-        "AssemblyVersion": "1.0.1",
+        "AssemblyVersion": "1.0.2",
         "Description": "A plugin that allows other players to see your character customizations, mods, and appearance exactly as you see them. Real-time synchronization of character data across the FFXIV community.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/goobbueSync/gobbue-sync",
