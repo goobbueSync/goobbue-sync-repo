@@ -1,25 +1,27 @@
-{
-    "Author": "n0way02",
-    "Name": "Goobbue Sync",
-    "InternalName": "GoobbueSync",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "A plugin that allows other players to see your character customizations, mods, and appearance exactly as you see them. Real-time synchronization of character data across the FFXIV community.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/n0way02/goobbue-sync",
-    "Tags": [
-        "social",
-        "utility",
-        "mods",
-        "customization",
-        "synchronization"
-    ],
-    "DalamudApiLevel": 13,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/GoobbueSync/images/icon.png",
-    "Punchline": "Let others see you as you see yourself!",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/n0way02/goobbue-sync/releases/download/v1.0.0/GoobbueSync-v1.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/n0way02/goobbue-sync/releases/download/v1.0.0/GoobbueSync-v1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/n0way02/goobbue-sync/releases/download/v1.0.0/GoobbueSync-v1.0.0.zip"
-}
+[
+    {
+        "Author": "n0way02",
+        "Name": "Goobbue Sync",
+        "InternalName": "GoobbueSync",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "A plugin that allows other players to see your character customizations, mods, and appearance exactly as you see them. Real-time synchronization of character data across the FFXIV community.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/n0way02/goobbue-sync",
+        "Tags": [
+            "social",
+            "utility",
+            "mods",
+            "customization",
+            "synchronization"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/n0way02/goobbue-sync-repo/main/GoobbueSync/images/icon.png",
+        "Punchline": "Let others see you as you see yourself!",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/n0way02/goobbue-sync/releases/download/v1.0.0/GoobbueSync-v1.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/n0way02/goobbue-sync/releases/download/v1.0.0/GoobbueSync-v1.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/n0way02/goobbue-sync/releases/download/v1.0.0/GoobbueSync-v1.0.0.zip"
+    }
+]
